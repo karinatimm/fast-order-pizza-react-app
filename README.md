@@ -8,8 +8,6 @@ This project was completed by me as part of the course "The Ultimate React Cours
 
 ## Features
 
-## Features
-
 - **Dynamic Menu Navigation**: Fast Pizza uses React Router to handle navigation across multiple pages, including the homepage, menu, cart, and order history, with URLs reflecting the current page.
 - **User Authentication**: The app includes a simple login system where users can create accounts and log in to access their cart and order history, showcasing authentication and protected routes in a React app.
 - **Pizza Selection Management**: Users can browse through a variety of pizzas, add them to their cart, and customize their orders. The app automatically calculates the total price based on selected items.
